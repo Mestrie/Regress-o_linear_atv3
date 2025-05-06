@@ -44,4 +44,3 @@ Este projeto fornece uma análise abrangente da regressão linear multivariada, 
 
 Justino
 
-Sinta-se à vontade para adaptar este README de acordo com suas necessidades e adicionar mais detalhes relevantes sobre o seu projeto!
